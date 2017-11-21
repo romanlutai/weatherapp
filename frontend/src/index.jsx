@@ -10,7 +10,6 @@ const getWeatherFromApi = async () => {
   } catch (error) {
     console.error(error);
   }
-
   return {};
 };
 

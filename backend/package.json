@@ -15,10 +15,15 @@
     "koa": "^2.2.0",
     "koa-json": "^2.0.2",
     "koa-router": "^7.2.0",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^1.6.3",
+    "package.json": "^2.0.1",
+    "parse-json": "^4.0.0",
+    "request": "^2.83.0"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-eslint": "^7.1.1",
+    "babel-preset-env": "^1.6.1",
     "eslint": "^3.4.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.3.0",
